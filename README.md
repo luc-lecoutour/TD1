@@ -5,8 +5,7 @@
 * Le [sujet du TD](TD-scolarite.pdf).
 
 **Lien classroom :**
-https://classroom.github.com/a/orIPSkmx
-
+https://classroom.github.com/a/6lW66ZxT
 
 
 
